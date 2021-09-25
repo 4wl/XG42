@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "xg42",
+    "name": "XG42",
+    "description": "a cool hack",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "null"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

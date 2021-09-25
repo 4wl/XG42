@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "com.unknown.xg42.mixin.client",
+  "refmap": "mixins.xg42.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinAbstractClientPlayer",
+    "MixinEntity",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiChat",
+    "MixinIGuiChat",
+    "MixinIMinecraft",
+    "MixinMinecraft",
+    "MixinPlayer"
+  ]
+}
